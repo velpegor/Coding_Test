@@ -14,3 +14,4 @@ for i in range(len(command)):
         x, y = x + dx[move_dir], y + dy[move_dir]
 
 print(x, y)
+
