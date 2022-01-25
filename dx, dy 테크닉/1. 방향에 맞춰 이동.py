@@ -20,3 +20,4 @@ for i in range(n):
     y += dy[move_dir] * int(distance)
 
 print(x, y)
+
