@@ -14,3 +14,5 @@ for i in range(1, a):
                     cnt +=1
 
 print(cnt)
+
+#다시 풀어볼 것
